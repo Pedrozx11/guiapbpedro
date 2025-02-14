@@ -1,0 +1,24 @@
+{
+  "name": "roteiro-6",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedrozx11/guiapbpedro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedrozx11/guiapbpedro/issues"
+  },
+  "homepage": "https://github.com/Pedrozx11/guiapbpedro#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
